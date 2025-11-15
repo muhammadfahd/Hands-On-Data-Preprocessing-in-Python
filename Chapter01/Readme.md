@@ -3,7 +3,7 @@ The codes and the datasets used for Chapter 1 of the book Hands-on Data Preproce
 
 # ⭐ **Chapter 1 – Quick Revision Sheet (NumPy + Pandas Basics)**
 
-* **Chapter 1.ipynb - Detailed Notebook for practising & learning using adult.csv
+* **Chapter 1.ipynb** - Detailed Notebook for practising & learning using adult.csv
 
 ## For **quick review**, **easy memory**, and **future practice**.
 ---
