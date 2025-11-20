@@ -1,6 +1,7 @@
-# Chapter 2 
+# Chapter 2:  Data Visualization
 Summary — Data Visualization (Matplotlib + Pandas)
 
+![alt text](285d68dd-charts-1024x581.jpg)
 ----
 
 Matplotlib is a popular Python library for data visualization.
@@ -9,7 +10,8 @@ It allows you to create graphs, charts, and plots to understand data better.
 > Matplotlib is a Python library used to create static, animated, and interactive visualizations such as line charts, bar charts, histograms, scatter plots, and more.
 
 * [Understand plots & its types](2.%20Types%20of%20plots%20&%20charts.md)
-* 
+* [Matplotlib Quick Revision Sheet](1.Matplotlib%20Quick%20Revision%20Sheet.md)
+
 
 ###  Key Features of Matplotlib
 | Feature                          | Explanation                                             |
