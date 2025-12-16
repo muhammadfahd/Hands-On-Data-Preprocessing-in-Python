@@ -1,7 +1,7 @@
 The codes and the datasets used for Chapter 1 of the book Hands-on Data Preprocessing using Python are in this folder. 
 
 
-# ⭐ **Chapter 1 – Quick Revision Sheet (NumPy + Pandas Basics)**
+#  **Chapter 1 – Quick Revision Sheet (NumPy + Pandas Basics)**
 
 * **Chapter 1.ipynb** - Detailed Notebook for practising & learning using adult.csv
 
@@ -10,7 +10,7 @@ The codes and the datasets used for Chapter 1 of the book Hands-on Data Preproce
 
 # **1. NumPy Basics**
 
-## 📌 **NumPy Functions Overview**
+##  **NumPy Functions Overview**
 
 | Concept / Function  | Purpose                 | Explanation                               | Example                                      |
 | ------------------- | ----------------------- | ----------------------------------------- | -------------------------------------------- |
@@ -103,7 +103,7 @@ Purpose:
 
 ---
 
-# ⭐ **Summary Sheet (for quick glance)**
+# **Summary Sheet (for quick glance)**
 
 | Area                 | Key Tools                                                                                   |
 | -------------------- | ------------------------------------------------------------------------------------------- |
